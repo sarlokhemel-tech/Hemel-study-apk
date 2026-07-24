@@ -1,0 +1,27 @@
+# Core UI Framework
+kivy==2.2.1
+kivymd==0.104.1
+
+# Networking
+requests==2.31.0
+aiohttp==3.8.5
+
+# Image processing
+Pillow==10.0.0
+
+# Security and Encryption
+cryptography==41.0.3
+
+# CLI and utilities
+click==8.1.7
+python-dotenv==1.0.0
+
+# Build tools
+buildozer==1.5.0
+cython==0.29.36
+
+# Markdown rendering
+markdown==3.4.1
+
+# Android-specific (handled by buildozer on Android)
+# pyjnius - automatically included for Android
